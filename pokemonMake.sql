@@ -1,4 +1,4 @@
-
+use project;
 insert into Pokemon (PokeDex_num,Name,Weight,Height,Weakness,Resistance,Immunitie,PKLevel,Type1,Type2,BaseAttack,BaseHealth,Move1ID,Move2ID,Move3ID,Move4ID,RegionID) values (1, "Bulbasaur", 6.9, 0.7, "FLYING, FIRE, ICE, PSYCHIC", "WATER, GRASS, ELECTRIC, FIGHTING", "", 37, "grass", "poison", 49, 45, 368, 265, 417, 208, 0);
 insert into Pokemon (PokeDex_num,Name,Weight,Height,Weakness,Resistance,Immunitie,PKLevel,Type1,Type2,BaseAttack,BaseHealth,Move1ID,Move2ID,Move3ID,Move4ID,RegionID) values (2, "Ivysaur", 13.0, 1.0, "FLYING, FIRE, ICE, PSYCHIC", "WATER, GRASS, ELECTRIC, FIGHTING", "", 96, "grass", "poison", 62, 60, 303, 208, 195, 222, 0);
 insert into Pokemon (PokeDex_num,Name,Weight,Height,Weakness,Resistance,Immunitie,PKLevel,Type1,Type2,BaseAttack,BaseHealth,Move1ID,Move2ID,Move3ID,Move4ID,RegionID) values (3, "Venusaur", 100.0, 2.0, "FLYING, FIRE, ICE, PSYCHIC", "WATER, GRASS, ELECTRIC, FIGHTING", "", 99, "grass", "poison", 82, 80, 195, 368, 222, 368, 0);

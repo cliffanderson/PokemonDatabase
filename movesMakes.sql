@@ -1,4 +1,4 @@
-
+use project;
 insert into Moves values (1,"Megahorn","BUG",120,85,10);
 insert into Moves values (2,"Attack Order","BUG",90,100,15);
 insert into Moves values (3,"Bug Buzz","BUG",90,100,10);

@@ -1,4 +1,4 @@
-
+use project;
 insert into Regions values (0,"Grassland");
 insert into Regions values (1,"Mountain");
 insert into Regions values (2,"WatersEdge");
