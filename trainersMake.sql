@@ -1,3 +1,4 @@
+use project;
 insert into Trianers (Name, Age, NumberOfBadges, Hometown) values ("Tom Plano", 19, 8, "Reading");
 insert into Trianers (Name, Age, NumberOfBadges, Hometown) values ("Cliff Anderson", 20, 5, "Freeport");
 insert into Trianers (Name, Age, NumberOfBadges, Hometown) values ("Will Larence", 21, 0, "Freeport");

@@ -1,0 +1,1 @@
+cat createTables.sql | mysql
