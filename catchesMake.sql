@@ -1,3 +1,4 @@
+use project;
 #insert into Catches values(trainerID, pokemonID, regionID)
 #Cliff's team
 insert into Catches values(2, 255, 0);
